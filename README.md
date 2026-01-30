@@ -39,9 +39,6 @@ Need a secure and scalable solution
 
 ---
 
-###### Original Course Material by Chris Blakely | Discord: https://discord.gg/nCrDnfCE
-
-
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
