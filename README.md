@@ -5,11 +5,11 @@
 A comprehensive **Patient Management System** built with modern microservices architecture for healthcare domain. This system manages the complete patient lifecycle from registration to billing and analytics.
 
 ### 🎯 Business Purpose
-यह system healthcare organizations के लिए design किया गया है जो:
-- Patient registration और management करते हैं
-- Billing और financial tracking करते हैं  
-- Real-time analytics और reporting चाहते हैं
-- Secure और scalable solution चाहते हैं
+This system is designed for healthcare organizations that:
+Perform patient registration and management
+Handle billing and financial tracking
+Require real-time analytics and reporting
+Need a secure and scalable solution
 
 ## 🏗️ System Architecture
 
