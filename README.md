@@ -581,6 +581,3 @@ Use the provided HTTP files in `api-requests/` directory with your favorite HTTP
 
 ---
 
-# 📞 Support
-
-For questions and support, join the Discord community: https://discord.gg/nCrDnfCE
